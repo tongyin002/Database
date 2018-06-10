@@ -26,4 +26,3 @@ Program can be terminated or closed by typing the command 'exit'. For help on su
 ![](ScreenShots/db0.png)
 
 <img src="ScreenShots/db1.png" width=450>
-![](ScreenShots/db1.png)
