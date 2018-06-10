@@ -24,7 +24,7 @@ Some of the examples of how to interact with this database is shown below. User 
 Program can be terminated or closed by typing the command 'exit'. For help on supported functions, user can type 'help' to know more about that information.
 
 
-![alt text](https://raw.githubusercontent.com/tongyin002/Database/ScreenShots/db0.png)
+![alt text](ScreenShots/db0.png)
 
 
 [![image](https://github.com/tongyin002/Database/ScreenShots/db1.png)](#capture)
