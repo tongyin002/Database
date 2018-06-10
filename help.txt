@@ -1,0 +1,27 @@
+***String’, ‘Integer’, ‘Float’  are the only 3 supported data types that can be stored and manipulated in the database.
+
+Supported Functions and Commands:
+
+1. Create Table
+create table <table name> (<column0 name> <type>, <column1 name> <type>, …)
+create table <table name> as <select clause>
+
+
+2. Load Table
+load <table name>
+
+
+3. Store Table
+store <table name>
+
+
+4. Insert INTO Table
+Insert into <table name> values <literal 1>, <literal 2>, …
+
+
+5. Print Table
+print <table name>
+
+
+6. Select Clause
+select <column expr0>, <column expr1>, … from <table0>, <table1>, … where <condition 0> and <condition 1> and …
