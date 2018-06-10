@@ -23,8 +23,8 @@ All of the stored tables are stored in folder examples.(with a extension .tbl).
 Some of the examples of how to interact with this database is shown below. User can type command lines following the '> ' sign.
 Program can be terminated or closed by typing the command 'exit'. For help on supported functions, user can type 'help' to know more about that information.
 
-
+<img src="ScreeShosts/db1.png" width=50>
 ![alt text](ScreenShots/db0.png)
 
 
-![alt text|small](ScreenShots/db1.png)
+![alt text](ScreenShots/db1.png)
