@@ -19,14 +19,12 @@ All of the stored tables are stored in folder examples.(with a extension .tbl).
 *  *Select Columns from Table* with supported simple arithmetic operations.
 
 ## Examples
-Below are serveral examples of interaction with an instance of the database. A line starting with '> '
-indicates the input of the user. And successive lines following is the output returned by the management
 
 Some of the examples of how to interact with this database is shown below. User can type command lines following the '> ' sign.
 Program can be terminated or closed by typing the command 'exit'. For help on supported functions, user can type 'help' to know more about that information.
 
 
-[![image](https://github.com/tongyin002/Database/ScreenShots/db0.png)](#capture)
+![alt text](https://raw.githubusercontent.com/tongyin002/Database/ScreenShots/db0.png)
 
 
 [![image](https://github.com/tongyin002/Database/ScreenShots/db1.png)](#capture)
