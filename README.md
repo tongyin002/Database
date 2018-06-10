@@ -27,4 +27,4 @@ Program can be terminated or closed by typing the command 'exit'. For help on su
 ![alt text](ScreenShots/db0.png)
 
 
-![alt text](ScreenShots/db1.png)
+<img src="https://github.com/tongyin002/Database/ScreenShots/db1.png" width="256" height="256">
